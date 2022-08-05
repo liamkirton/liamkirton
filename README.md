@@ -1,4 +1,4 @@
-Hey :wave:, I'm Liam [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Web][3.2]][3]
+Hey :wave:, I'm Liam [![GitHub][1.2]][1] [![LinkedIn][2.2]][2] [![Twitter][3.2]][3] [![Web][4.2]][4]
 
 I'm currently a Principal Security Researcher at [Microsoft](https://microsoft.com/) in the
 [Threat Intelligence Center (MSTIC)](https://www.microsoft.com/security/blog/microsoft-security-intelligence/),
@@ -21,10 +21,12 @@ Here are some ancient (~15 years), obsolete Windows security tools:
 * [scant](https://github.com/liamkirton/scant) and [scamp](https://github.com/liamkirton/scamp)
 * [lsppyfilter](https://github.com/liamkirton/lsppyfilter)
 
-[1.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/twitter-fill.png
+[1.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/github-fill.png
 [2.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/linkedin-box-fill.png
-[3.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/ie-fill.png
+[3.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/twitter-fill.png
+[4.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/ie-fill.png
 
-[1]: https://twitter.com/liam_kirton
+[1]: https://github.com/liamkirton/
 [2]: https://www.linkedin.com/in/liam-kirton/
-[3]: https://int3.ws/
+[3]: https://twitter.com/liam_kirton
+[4]: https://int3.ws/
