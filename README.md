@@ -11,7 +11,7 @@ I write a lot of [Python :snake:](https://python.org/) with
 
 Here are some recent spare-time projects:
 
-* I've recently completed a [Postgraduate Diploma in Mathematics](https://www.open.ac.uk/postgraduate/qualifications/e23) on the way to the [MSc](https://www.open.ac.uk/postgraduate/qualifications/f04).
+* I've recently completed a [Postgraduate Diploma in Mathematics](https://www.open.ac.uk/postgraduate/qualifications/e23) on the way to an [MSc](https://www.open.ac.uk/postgraduate/qualifications/f04).
 * I'm currently (2022-23) studying for a [Graduate Certificate in Theoretical Statistics and Probability](https://www.open.ac.uk/courses/statistics/certificates/certificate-in-theoretical-statistics-probability-s04).
 * [fractal-cuda](https://github.com/liamkirton/fractal-cuda) - render deep [Mandebrot sets](https://en.wikipedia.org/wiki/Mandelbrot_set) on the GPU with CUDA.
 * [8bitcpu](https://github.com/liamkirton/8bitcpu) - my [Ben Eater 8-bit breadboard computer](https://eater.net/8bit/) with assembler and emulator. Requires
