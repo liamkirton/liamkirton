@@ -17,7 +17,7 @@ Here are some recent spare-time projects:
 * [8bitcpu](https://github.com/liamkirton/8bitcpu) - my [Ben Eater 8-bit breadboard computer](https://eater.net/8bit/) with assembler and emulator. Requires
 [at28c256](https://github.com/liamkirton/at28c256) Arduino EEPROM programmer.
 
-Here are some ancient (~15 years), obsolete Windows security tools:
+I spent 15 years working on Vulnerability Research and Windows Internals, and here are some ancient obsolete Windows security tools:
 
 * [scant](https://github.com/liamkirton/scant) and [scamp](https://github.com/liamkirton/scamp)
 * [lsppyfilter](https://github.com/liamkirton/lsppyfilter)
