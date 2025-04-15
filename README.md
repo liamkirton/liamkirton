@@ -4,7 +4,7 @@ I'm currently a Principal Security Research Lead at [Microsoft](https://microsof
 where I work on R&D related to Threat Intelligence and Detection across a wide range of MS products.
 
 I write a lot of [Python :snake:](https://python.org/), [C#](https://dotnet.microsoft.com/en-us/download) and [Rust :crab:](https://www.rust-lang.org/) to mine interesting security events from
-trillions of daily signals held in [Kusto :cloud::ocean:](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/).
+trillions of daily signals held in [Kusto :cloud::ocean:](https://dataexplorer.azure.com/). I particularly specialise in writing fast and efficient [KQL](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/).
 
 [1.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/github-fill.png
 [2.2]: https://raw.githubusercontent.com/liamkirton/liamkirton/master/img/linkedin-box-fill.png
